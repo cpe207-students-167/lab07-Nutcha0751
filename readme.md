@@ -7,7 +7,7 @@
 
 ชื่อ-สกุล : ณัชชา คำปวง
 
-GitHub Page URL : https://cpe207-students-167.github.io/lab07-Nutcha0751/index.html
+GitHub Page URL : https://cpe207-students-167.github.io/lab07-Nutcha0751/
 
 ---
 
