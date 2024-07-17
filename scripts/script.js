@@ -65,7 +65,7 @@ submitBtn.onclick = () => {
   }
 
   // validate email
-  if (emailInput.value !== "") {
+  if (validateEmail(emailInput.value)) {
     emailInput.classList.add("is-valid");
     isemailOk = true;
   } else {
